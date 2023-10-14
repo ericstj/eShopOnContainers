@@ -1,4 +1,4 @@
-﻿namespace eShopOnContainers.WebSPA;
+﻿namespace Microsoft.eShopOnContainers.WebSPA;
 
 public class AppSettings
 {
